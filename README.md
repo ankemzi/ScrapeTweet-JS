@@ -1,2 +1,2 @@
-# ScrapeTweet
-Built, Designed and Deployed over 20 web applications for local businesses and non profits using HTLM, Python, CSS and Bootstrap.
+Built a python module that scraped Instagram for sentimental comments and “DM’s” then mapped out graphs to
+represent sentiments over a period of time.
