@@ -1,5 +1,5 @@
 
-# NB-Twitter Bot
+# Scrape Tweet
 ![nb bot](https://nb-twitter-bot.herokuapp.com/main.png)
 
 [![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
@@ -21,5 +21,6 @@ A twitter bot made by nodejs, using twitter api
 
 ## Deploy
 User can deploy this to heroku. Create `  Config Vars` for each in `.env` file and deploy or simply press DEPLOY button. in `.env` files you cant add arrays.so need to add ids in the code
+
 
 
