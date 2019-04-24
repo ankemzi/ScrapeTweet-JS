@@ -3,11 +3,9 @@
 ![nb bot](https://nb-twitter-bot.herokuapp.com/main.png)
 
 [![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
-[![Build Status](https://travis-ci.org/namila007/nb-twitter-bot.svg?branch=master)](https://travis-ci.org/namila007/nb-twitter-bot)
-
 ## Intro
 
-A twitter bot made by nodejs, using twitter api
+A twitter bot made using nodejs, using twitter api
 
 ## Run the code
 
